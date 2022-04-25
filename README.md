@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maeltoukap&label=Profile%20views&color=0e75b6&style=flat" alt="maeltoukap" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maeltoukap" alt="maeltoukap" width="450"></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maeltoukap" alt="maeltoukap" width="550"></a> </p>
 
 - 🔭 I’m currently working on [Quick Menu](https://github.com/maeltoukap/quick_menu_dashboard)
 
