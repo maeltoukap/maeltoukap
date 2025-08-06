@@ -8,7 +8,7 @@ Hi there! 👋 I'm Mael Toukap, a passionate software engineer.
 
 - 💻 I'm a mobile and backend developer
 - 🎨 Content creator - I enjoy sharing my experience, coding journey and helping others build theirs.
-- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/mael-toukap-4577041a4/), [Instagram](https://www.instagram.com/widget_mael/), and [X (Twitter)](https://twitter.com/MaelToukap)
+- 🌐 Connect with me on [LinkedIn](https://www.linkedin.com/in/mael-toukap/), [Instagram](https://www.instagram.com/widget_mael/), and [X (Twitter)](https://twitter.com/MaelToukap)
 
 - 📷 Follow me on Instagram: [@widget_mael](https://www.instagram.com/widget_mael/)
 - ✉️ Subscribe to my Stack Overflow: [Mael Toukap on Stack Overflow](https://stackoverflow.com/users/16398195/mael-toukap)
